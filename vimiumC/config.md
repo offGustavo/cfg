@@ -2,8 +2,7 @@
 
 unmap f
 unmap F
-## unmap b
-## unmap B
+
 unmap <a-f>
 unmap <a-m>
 
@@ -20,9 +19,6 @@ map aa LinkHints.activateOpenImage
 map ay LinkHints.activateDownloadImage
 
 map M toggleMuteTab
-
-## map S showHelp
-## map s enterFindMode
 
 map D scrollFullPageDown
 map U scrollFullPageUp
