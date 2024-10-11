@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+rofi -combi-modi drun,window,ssh -theme ~/Temp/launcher.rasi -font "jetbrains mono nerdfont  15" -show combi -icon-theme "Zafiro" -show-icons
